@@ -20,7 +20,7 @@
 * http://en.wikipedia.org/wiki/Rubber_duck_debugging
 * http://www.youtube.com/watch?v=t4AqxNekecY
 * http://www.ted.com/talks/lang/ja/dan_pink_on_motivation.html
-* http://www.management.wharton.upenn.edu/grant/Grant_JAP2008b_TaskSignificance.pdf
+* http://www.management.wharton.upenn.edu/grant/Grant_JAP2008b_TaskSignificance.pdf (dead) (working: http://www.ww.selfdeterminationtheory.org/SDT/documents/2008_Grant_JAP_TaskSignificance.pdf)
 
 # ch04
 * http://ja.wikipedia.org/wiki/Leet
